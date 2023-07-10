@@ -1,0 +1,3 @@
+public enum Allapot {
+    HORDHATATLAN, MEGHASZNALHATO, EGESZJO, JO, KIVALO;
+}
