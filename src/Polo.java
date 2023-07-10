@@ -1,4 +1,4 @@
-public class Polo extends Ruhatar{
+public class Polo extends Ruha {
     String szine;
     boolean minta;
 
@@ -7,4 +7,6 @@ public class Polo extends Ruhatar{
         this.szine = szine;
         this.minta = minta;
     }
+
+
 }

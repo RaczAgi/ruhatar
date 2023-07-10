@@ -1,4 +1,4 @@
-public class Kabat extends Ruhatar{
+public class Kabat extends Ruha {
     Tipus tipus;
 
     public Kabat(String name, Fajta fajta, Allapot allapot, Tipus tipus) {

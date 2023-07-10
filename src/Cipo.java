@@ -1,4 +1,4 @@
-public class Cipo extends Ruhatar{
+public class Cipo extends Ruha {
     int meret;
 
     public Cipo(String name, Fajta fajta, Allapot allapot, int meret) {

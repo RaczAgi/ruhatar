@@ -1,4 +1,4 @@
-public class Zokni extends Ruhatar{
+public class Zokni extends Ruha {
     ZokniTipus zokniTipus;
 
     public Zokni(String name, Fajta fajta, Allapot allapot, ZokniTipus zokniTipus) {
